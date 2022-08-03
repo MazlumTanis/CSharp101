@@ -1,2 +1,2 @@
-# c-101
+# C# 101
 Patika Backend Projeleri
